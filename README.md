@@ -9,43 +9,44 @@ It features a menu-driven interface with layered panels, a live date-time displa
 ## Screenshots
 Deposit
 
-![deposit.jpg](https://github.com/swayam-rajput/Banking-Management-System/blob/main/banking/snapshots/deposit.jpg)
+![deposit.jpg](https://raw.githubusercontent.com/swayam-rajput/Banking-Management-Sys/refs/heads/main/snapshots/deposit.jpg)
 
 Withdraw
 
-![withdraw.png](https://github.com/swayam-rajput/Banking-Management-System/blob/main/banking/snapshots/withdraw.png)
+![withdraw.png](https://raw.githubusercontent.com/swayam-rajput/Banking-Management-Sys/refs/heads/main/snapshots/withdraw.png)
 
 Customer Creation
 
-![customer_creation.png](https://github.com/swayam-rajput/Banking-Management-System/blob/main/banking/snapshots/customer_creation.png)
+![customer_creation.png](https://raw.githubusercontent.com/swayam-rajput/Banking-Management-Sys/refs/heads/main/snapshots/customer_creation.png)
 
 Customer Deactivation
 
-![customer_deactivation.png](https://github.com/swayam-rajput/Banking-Management-System/blob/main/banking/snapshots/customer_deactivation.png)
+![customer_deactivation.png](https://raw.githubusercontent.com/swayam-rajput/Banking-Management-Sys/refs/heads/main/snapshots/customer_deactivation.png)
 
 Customer_info_invalid
 
-![customer_info_invalid.png](https://github.com/swayam-rajput/Banking-Management-System/blob/main/banking/snapshots/customer_info_invalid.png)
+![customer_info_invalid.png](https://raw.githubusercontent.com/swayam-rajput/Banking-Management-Sys/refs/heads/main/snapshots/customer_info_invalid.png)
 
 Customer Information Valid
 
-![customer_info_valid.png](https://github.com/swayam-rajput/Banking-Management-System/blob/main/banking/snapshots/customer_info_valid.png)
+![customer_info_valid.png](https://raw.githubusercontent.com/swayam-rajput/Banking-Management-Sys/refs/heads/main/snapshots/customer_info_valid.png)
 
 Customer Updation
 
-![customer_updation.png](https://github.com/swayam-rajput/Banking-Management-System/blob/main/banking/snapshots/customer_updation.png)
+![customer_updation.png](https://raw.githubusercontent.com/swayam-rajput/Banking-Management-Sys/refs/heads/main/snapshots/customer_updation.png)
 
 Employees Table
 
-![emps_table.png](https://github.com/swayam-rajput/Banking-Management-System/blob/main/banking/snapshots/emps_table.png)
+![emps_table.png](https://raw.githubusercontent.com/swayam-rajput/Banking-Management-Sys/refs/heads/main/snapshots/emps_table.png)
 
 Employee Registration
 
-![emp_insertion.png](https://github.com/swayam-rajput/Banking-Management-System/blob/main/banking/snapshots/emp_insertion.png)
+![emp_insertion.png](https://raw.githubusercontent.com/swayam-rajput/Banking-Management-Sys/refs/heads/main/snapshots/emp_insertion.png)
 
 Logged In Employee Info
 
-![logged_in_emp_info.png](https://github.com/swayam-rajput/Banking-Management-System/blob/main/banking/snapshots/logged_in_emp_info.png)
+![logged_in_emp_info.png](https://raw.githubusercontent.com/swayam-rajput/Banking-Management-Sys/refs/heads/main/snapshots/logged_in_emp_info.png)
+
 
 
 
