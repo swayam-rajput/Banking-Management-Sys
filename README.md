@@ -6,6 +6,12 @@ This banking management application enables administrators to manage customers, 
 
 It features a menu-driven interface with layered panels, a live date-time display, and supports seamless navigation and updates.
 
+## Tech Stack Used
+- **Language**: Java
+- **Library**: Swing for GUI development.
+- **Database**: MySQL for storing customer, transaction, and employee data.
+- **JDBC**: Connects the application with the database.
+
 ## Screenshots
 Deposit
 
