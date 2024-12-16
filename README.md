@@ -83,4 +83,4 @@ java -cp .\mysql-connector-j-8.0.31.jar Login.java
 ```
 ## Reaching Out
 
-Contact me for the full project folder by submitting your request at [my mail](swayamrajput029@gmail.com)
+Contact me for the full project folder by submitting your request at [my mail](mailto:swayamrajput029@gmail.com)
