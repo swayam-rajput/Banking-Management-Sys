@@ -7,6 +7,14 @@ This banking management application enables administrators to manage customers, 
 It features a menu-driven interface with layered panels, a live date-time display, and supports seamless navigation and updates.
 
 ## Screenshots
+Deposit
+
+![deposit.jpg](https://github.com/swayam-rajput/Banking-Management-System/blob/main/banking/snapshots/deposit.jpg)
+
+Withdraw
+
+![withdraw.png](https://github.com/swayam-rajput/Banking-Management-System/blob/main/banking/snapshots/withdraw.png)
+
 Customer Creation
 
 ![customer_creation.png](https://github.com/swayam-rajput/Banking-Management-System/blob/main/banking/snapshots/customer_creation.png)
@@ -27,14 +35,6 @@ Customer Updation
 
 ![customer_updation.png](https://github.com/swayam-rajput/Banking-Management-System/blob/main/banking/snapshots/customer_updation.png)
 
-Deposit
-
-![deposit.jpg](https://github.com/swayam-rajput/Banking-Management-System/blob/main/banking/snapshots/deposit.jpg)
-
-Withdraw
-
-![withdraw.png](https://github.com/swayam-rajput/Banking-Management-System/blob/main/banking/snapshots/withdraw.png)
-
 Employees Table
 
 ![emps_table.png](https://github.com/swayam-rajput/Banking-Management-System/blob/main/banking/snapshots/emps_table.png)
@@ -46,6 +46,7 @@ Employee Registration
 Logged In Employee Info
 
 ![logged_in_emp_info.png](https://github.com/swayam-rajput/Banking-Management-System/blob/main/banking/snapshots/logged_in_emp_info.png)
+
 
 
 ## Instructions
